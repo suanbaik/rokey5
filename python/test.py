@@ -1,3 +1,3 @@
 print(("hello git!!!"))
 print("hi!!!")
-print("Thanks @@@@@@@")
+print("Thanks~^^")
