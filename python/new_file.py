@@ -1,0 +1,1 @@
+print("VSCODE 새 파일")
